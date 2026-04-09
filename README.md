@@ -26,9 +26,11 @@ RFID card → maps to PRN → performs operations like attendance, payment, and 
 - OOP in Java
 - JDBC Connectivity
 - Exception Handling
-
-## 📷 Screenshots
-(Add your GUI screenshots here)
+  
+## ▶️ How to Run
+1. Import the SQL file into MySQL
+2. Update DB credentials in DBConnection.java
+3. Run Dashboard.java
 
 ## 👨‍💻 Author
-Your Name
+Jalaj Maheshwari
